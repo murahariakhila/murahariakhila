@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**murahariakhila/murahariakhila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 👋 Hi! I’m Akhila, a developer who loves coding and pizza. 🍕💻  
 💡 I have experience building apps with Kotlin and Android Studio,
 but I’m also passionate about exploring the web development world — HTML, CSS, and JavaScript are my current playgrounds.  
